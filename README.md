@@ -1,2 +1,2 @@
 # inter-semana-front-end
-Projeto elabora na semana do Front-end Inter (DIO)
+Projeto elaborado na semana do Front-end Inter (DIO)
